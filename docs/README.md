@@ -3,7 +3,7 @@
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/Oceana_GCast
-   cd oceananigans-project
+   cd Oceana_GCast
    ```
 
 2. **Install Dependencies**:
