@@ -32,7 +32,7 @@
 
 ## Contribution
 
-Contributions are welcome! Please feel free to submit issues or pull requests to enhance the functionality of the Oceananigans project.
+Contributions are welcome! Please feel free to submit issues or pull requests to enhance the functionality of Oceana_GCast.
 
 ## License
 
